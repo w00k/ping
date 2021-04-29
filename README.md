@@ -6,6 +6,7 @@ Servicio **ping** que llama al servicio **pong**, para entregar una respuesta. A
 
 Tener instalado: 
 * Golang. 
+* Descargar el proyecto pong desde https://github.com/w00k/pong
 * Descargar las dependencias. 
 
 En la ruta donde está el proyecto 
